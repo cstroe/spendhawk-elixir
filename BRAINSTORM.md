@@ -16,14 +16,14 @@ Goal: Use my money wisely.
 
 ## Some language
 
-Owner      - Anything.
-Ownable    - Anything that is owned by an Owner.
-Value      - A measure of worth.  In our case this will always be an amount of money.
-Valuable   - Anything that has Value.
-Individual - A person, that is an Owner and Valuable.  A person's value is their Net Worth.
-Net Worth  - The sum of the Value of each Valuable owned by an Individual.
-Liability  - A Valuable that negatively impacts an individual's net worth.
-Asset      - A Valuable that positively impacts an individual's net worth.
+* _Owner_      - Anything.
+* _Ownable_    - Anything that is owned by an Owner.
+* _Value_      - A measure of worth.  In our case this will always be an amount of money.
+* _Valuable_   - Anything that has Value.
+* _Individual_ - A person, that is an Owner and Valuable.  A person's value is their Net Worth.
+* _Net Worth_  - The sum of the Value of each Valuable owned by an Individual.
+* _Liability_  - A Valuable that negatively impacts an individual's net worth.
+* _Asset_      - A Valuable that positively impacts an individual's net worth.
 
 ### Some examples
 
