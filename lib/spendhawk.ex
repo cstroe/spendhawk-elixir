@@ -1,0 +1,2 @@
+defmodule SpendHawk do
+end
