@@ -30,8 +30,8 @@ Use my money wisely. :moneybag:
 
 ### Some examples
 
-A bank account (checking/savings) is an Asset for its Owner.  Its Value is the current balance.
-A credit card account is a Liability for its Owner. Its Value is the current balance.
-A mortgage is a Liability for its Owner. Its value is the current principal balance.
+* A bank account (checking/savings) is an Asset for its Owner.  Its Value is the current balance.
+* A credit card account is a Liability for its Owner. Its Value is the current balance.
+* A mortgage is a Liability for its Owner. Its value is the current principal balance.
 
 
