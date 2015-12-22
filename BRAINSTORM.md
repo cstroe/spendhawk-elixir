@@ -1,4 +1,7 @@
-Goal: Use my money wisely.
+
+## Goal
+
+Use my money wisely.
 
 ## How:
 
