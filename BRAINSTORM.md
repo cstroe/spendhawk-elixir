@@ -16,6 +16,8 @@ Use my money wisely. :moneybag:
 2. You don't have to categorize each expenditure, but it will automatically go into a catch-all category called "Uncategorized".
 3. Expenditures can form a tree.
 
+In order to better keep track of expenditures, we should probably keep track of the accounts which we use to spend money.
+
 
 ## Some language
 
