@@ -1,7 +1,7 @@
 
 ## Goal
 
-Use my money wisely.
+Use my money wisely. :moneybag:
 
 ## How:
 
