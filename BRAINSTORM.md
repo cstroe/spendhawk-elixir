@@ -38,5 +38,5 @@ In order to better keep track of expenditures, we should probably keep track of 
 
 ## Some more language
 
-* _Account_  - A list of CashFlows.
-* _CashFlow_ - A movement of money from one account to another. A CashFlow debits one Account and credits another.
+* _Account_  - A list of LineItems.
+* _LineItem_ - An adjustment to the account value.  Can be a credit (increase account value) or a debit (decrease account value).
