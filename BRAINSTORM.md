@@ -6,7 +6,7 @@ Use my money wisely. :moneybag:
 ## How:
 
 1. Need to know how my much of my spending is mandatory vs. discretionary.
-2. Need to know much much I'm saving.
+2. Need to know much money I'm saving.
 3. Need to categorize spending, and see how much I've spent per month on each category.
 4. Need to set a budget (spending limit per category) for each month.
 
@@ -36,4 +36,7 @@ In order to better keep track of expenditures, we should probably keep track of 
 * A credit card account is a Liability for its Owner. Its Value is the current balance.
 * A mortgage is a Liability for its Owner. Its value is the current principal balance.
 
+## Some more language
 
+* _Account_  - A list of CashFlows.
+* _CashFlow_ - A movement of money from one account to another. A CashFlow debits one Account and credits another.
